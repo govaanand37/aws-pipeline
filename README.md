@@ -16,6 +16,7 @@ Great! Now that we have our repository set up, we can move on to the next step.
 ## Create an AWS CodePipeline
 In this step, we'll create an AWS CodePipeline to automate the continuous integration process for our Python application. AWS CodePipeline will orchestrate the flow of changes from our GitHub repository to the deployment of our application. Let's go ahead and set it up:
 
+
 - Go to the AWS Management Console and navigate to the AWS CodePipeline service.
 - Click on the "Create pipeline" button.
 - Provide a name for your pipeline and click on the "Next" button.
